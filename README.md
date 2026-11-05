@@ -1,6 +1,6 @@
 # 📩 SMS & Message Spam Detection System
 
-**Author:** Khushi  
+**Author:** Kunal
 **Framework:** Python, Scikit-Learn, NLTK, Streamlit  
 **Dataset:** [UCI SMS Spam Collection Dataset (Kaggle)](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
